@@ -8,7 +8,8 @@ package paquete03;
 import paquete04.OperadorUno;
 import paquete04.OperadorDos;
 import paquete05.OperadorTres;
-import paquete06.imprimir;
+import paquete06.imprimir;//Se llama a una clase de otro paquete que contiene
+                          //un procedimiento que sirve para presentar los datos
 // import paquete04.*;
 /**
  *
